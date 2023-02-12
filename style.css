@@ -1,7 +1,6 @@
 * {
   margin: 0;
 }
-
 html,
 body {
   font-size: 18px;
@@ -26,7 +25,6 @@ h1 {
   margin: 20px auto;
   overflow: hidden;
 }
-
 .slider-line {
   width: 1024px;
   display: flex;
