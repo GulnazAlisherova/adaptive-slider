@@ -31,5 +31,5 @@ h1 {
   background: orange;
   position: relative;
   left: 0;
-  transition: all ease 1s;
+  transition: all ease .7s;
 }
