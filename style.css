@@ -28,7 +28,7 @@ h1 {
 .slider-line {
   width: 1024px;
   display: flex;
-  background: orange;
+  background: rgb(54, 191, 201);
   position: relative;
   left: 0;
   transition: all ease .7s;
